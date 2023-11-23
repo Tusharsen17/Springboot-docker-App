@@ -10,7 +10,7 @@ public class WelcomeRestController {
 	
 	@GetMapping
 	public String getMsg() {
-		return "Welcome To AshokIT(HYD)..!!";
+		return "Welcome To AshokIT(Kolkata)..!!";
 	}
 		
 		
